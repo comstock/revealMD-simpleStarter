@@ -176,4 +176,3 @@ Original estimates:
 
 Completion: December 2017
 
-========================================================

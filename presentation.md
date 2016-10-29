@@ -14,3 +14,4 @@
 
 ###Example of how to include an image
 ![](images/presentIcon.png)
+

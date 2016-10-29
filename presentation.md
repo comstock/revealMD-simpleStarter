@@ -11,11 +11,12 @@
 - 2 new lines - indicate a new section (vertical transition)
 ![](images/NewSection.png)
 
-
+---
 ###Example of how to include an image
 
 ![](images/presentIcon.png)
 
+---
 
 ###Slide 4
 
